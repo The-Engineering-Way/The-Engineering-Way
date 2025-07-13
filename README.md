@@ -30,7 +30,7 @@ We’re always looking for motivated engineers, programmers, and makers to join 
 - 🌐 **Instagram:** @theengineeringway23
   
 ---
-!--
+<!--
 ## 📂 Projects
 
 Check out our featured repositories:
