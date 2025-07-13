@@ -17,8 +17,8 @@ Welcome to **The Engineering Way** — a passionate robotics group founded in 20
 - **Design & Prototyping:** From concept sketches to physical prototypes, we iterate rapidly.
 - **Mechanical Engineering:** CAD modeling, fabrication, and assembly of custom robot parts.
 - **Electronics & Embedded Systems:** Microcontrollers, sensors, and actuator integration.
-- **Software & Control:** ROS, Python, computer vision, and real-time control algorithms.
-- **Team Collaboration:** Agile workflows, version control, and continuous integration.
+- **Software & Control:** ROS, C, C++, Arduino, Python, computer vision, and real-time control algorithms.
+- **Team Collaboration:** Version control, and continuous integration.
 
 ---
 
@@ -26,12 +26,11 @@ Welcome to **The Engineering Way** — a passionate robotics group founded in 20
 
 We’re always looking for motivated engineers, programmers, and makers to join our team. If you’re passionate about robotics and innovation, get in touch!
 
-- 📧 **Contact:** team@the-engineering-way.org
-- 🌐 **Website:** https://the-engineering-way.org (coming soon)
-- 💬 **Slack:** `the-engineering-way.slack.com`
-
+- 📧 **Contact:** engineeringwayteam@gmail.com
+- 🌐 **Instagram:** @theengineeringway23
+  
 ---
-
+!--
 ## 📂 Projects
 
 Check out our featured repositories:
@@ -39,6 +38,7 @@ Check out our featured repositories:
 - [**ew-eurobot-2024**](https://github.com/the-engineering-way/ew-eurobot-2024) – Our award-winning robot for Eurobot Spain 2024.
 - [**autonomous-navigator**](https://github.com/the-engineering-way/autonomous-navigator) – Path planning and navigation module.
 - [**vision-system**](https://github.com/the-engineering-way/vision-system) – Computer vision algorithms for object detection and localization.
+-->
 
 ---
 
